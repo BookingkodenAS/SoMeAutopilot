@@ -1,0 +1,12 @@
+{
+  "caption": "Kontoret er ikke alltid det samme stedet.\n\nNoen dager er det pulten hjemme, med boken innen rekkevidde. Andre dager er det en hotellpult i en fremmed by, med utsikt over sjøen i pausene.\n\nDet som er likt, er at telefonene fortsatt blir besvart, og kundene fortsatt blir godt ivaretatt - uansett hvor vi jobber fra.",
+  "images": [
+    "assets/reise-01-kontor.jpg",
+    "assets/reise-02-havneby.jpg",
+    "assets/reise-03-torget.jpg",
+    "assets/reise-04-hotell.jpg",
+    "assets/reise-05-utsikt.jpg",
+    "assets/reise-06-kveld.jpg"
+  ],
+  "platforms": ["instagram", "facebook"]
+}
