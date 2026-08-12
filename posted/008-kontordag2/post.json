@@ -8,5 +8,13 @@
     "assets/kontordag2-05.jpg",
     "assets/kontordag2-06.jpg"
   ],
-  "platforms": ["instagram", "facebook"]
+  "platforms": [
+    "instagram",
+    "facebook"
+  ],
+  "published": {
+    "at": "2026-08-12T09:15:47Z",
+    "instagram": "18201481135370866",
+    "facebook": "182414275577972_1683670803759951"
+  }
 }
