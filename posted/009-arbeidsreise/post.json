@@ -8,5 +8,13 @@
     "assets/reise-05-utsikt.jpg",
     "assets/reise-06-kveld.jpg"
   ],
-  "platforms": ["instagram", "facebook"]
+  "platforms": [
+    "instagram",
+    "facebook"
+  ],
+  "published": {
+    "at": "2026-08-14T09:12:06Z",
+    "instagram": "17987869455019535",
+    "facebook": "182414275577972_1685749060218792"
+  }
 }
