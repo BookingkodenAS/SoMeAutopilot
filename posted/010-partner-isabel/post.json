@@ -8,5 +8,13 @@
     "assets/partner-05-smil.jpg",
     "assets/partner-06-blomster.jpg"
   ],
-  "platforms": ["instagram", "facebook"]
+  "platforms": [
+    "instagram",
+    "facebook"
+  ],
+  "published": {
+    "at": "2026-08-17T08:47:59Z",
+    "instagram": "18033137222831516",
+    "facebook": "182414275577972_1688783706581994"
+  }
 }
