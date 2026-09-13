@@ -20,5 +20,18 @@
     "1YrRmMAEQzuEd202epU3wDd4JrRik2C82": "stories/026-solskinn-brygge",
     "1QfRCnXeAXCx9gPIP7YFzrRYvJOi2NDik": "stories/027-skrivebord-bok",
     "1XlwE7UoUWZPAhnXiBR9TvX6vy9B1GbOX": "stories/028-havneby",
-    "_note_duplicates_of_used_ids": "Drive re-shares the same photo under multiple fileIds/titles sometimes (e.g. same size/content, different id). Known duplicate ids to also skip: 1eHlMbpqE1BVfKU_vpN-Pwndeejarui3r, 1euE-Q-P4yGMBLDCqDsqPIgiufJ-2npPl (dup of BNI photo), 1xFsou8z-db07ppWWb_m4pL3qNkrrGHVg (dup of 20260818_151950), 1zrZCgTTXFozx8BconwkONaCIUr8kuOdn, 1r4_PUfIqKp4nkY4aFC_lH3mDp_p8Gds0, 18HDPrMdSeyaDoZzrNypNXxqAF5LeAsZH, 1MnjJNcg9Ai6RN4BGi78kf-wCwuzgx-1f (Aug20 cafe meeting series, skipped for privacy - identifiable third person in frame, not used but noted so future runs don't re-download and re-evaluate them each week), 10eul8UDfw0N6mEXZ4fh5Lmxn9iUN49Xv (car showroom photo with unrelated bystanders, not on-brand, skipped)"
+    "_note_duplicates_of_used_ids": "Drive re-shares the same photo under multiple fileIds/titles sometimes (e.g. same size/content, different id). Known duplicate ids to also skip: 1eHlMbpqE1BVfKU_vpN-Pwndeejarui3r, 1euE-Q-P4yGMBLDCqDsqPIgiufJ-2npPl (dup of BNI photo), 1xFsou8z-db07ppWWb_m4pL3qNkrrGHVg (dup of 20260818_151950), 1zrZCgTTXFozx8BconwkONaCIUr8kuOdn, 1r4_PUfIqKp4nkY4aFC_lH3mDp_p8Gds0, 18HDPrMdSeyaDoZzrNypNXxqAF5LeAsZH, 1MnjJNcg9Ai6RN4BGi78kf-wCwuzgx-1f (Aug20 cafe meeting series, skipped for privacy - identifiable third person in frame, not used but noted so future runs don't re-download and re-evaluate them each week), 10eul8UDfw0N6mEXZ4fh5Lmxn9iUN49Xv (car showroom photo with unrelated bystanders, not on-brand, skipped)",
+    "1co2eBRG6QkFps9IARj9LMGrPAsdKpRHE": "queue/029-gamleby-spasertur",
+    "1tOxTgVLf0bFUsBWoNBXh_MT8f7-9VEC4": "queue/029-gamleby-spasertur",
+    "1y0s023WbopKHSKG3jmLUkQNaMIwxiHYw": "queue/029-gamleby-spasertur (dup id)",
+    "1jcRqXYRtqf9cmbdZO0ir7EsqDQIal6R4": "queue/029-gamleby-spasertur (dup id)",
+    "1Df6qd8dcOYMOXl9jSQoLtmPtiPckQuFj": "queue/029-gamleby-spasertur",
+    "1gkkaBJUHZOy5HCbLmVp-kpCJGOe4lR60": "queue/029-gamleby-spasertur (dup id)",
+    "1AjDGiGm5bYs9xePvUP3ByZDiUa6G4Bju": "queue/030-fjordutsikt",
+    "1owASDbeOmqZ3LufhMtxzAiHSoZDyVqsn": "queue/031-skrivepult-loft (dup of 143116, not used)",
+    "1DCxrJc4TnxmIBU0SZ-vyHJzlS_oX_2jK": "queue/031-skrivepult-loft",
+    "1YJ-Lvy5WasqpjjEqiMxcy7kdFKNOZoNb": "stories/032-latter-brygga",
+    "1vSS0tUyk0S3V5gUhrFpJSWTvCg7Rd2JH": "stories/033-ser-utover",
+    "1Cdu4EuhDJ57_VcM4Lw19XHdDocqvb9p4": "stories/033-ser-utover",
+    "_pending_large_files_2026-09-06": "download_file_content failed repeatedly (session expired) for 3 large (8-9MB) new Drive photos from 2026-09-06 burst: 1_3me-7tFLoovlnQsKezp7bANlKCtY44t (20260906_123008.jpg), 17Vyl5Byn0D4cwOwEhqyzFP3jo_uy4HqG (20260906_123013.jpg), 1Tb5X5rac3UlXCS6PZGZf9LED3jAnFFVg (20260906_123015.jpg). NOT used this run, NOT marked used -- retry next run, these are still candidates."
 }
