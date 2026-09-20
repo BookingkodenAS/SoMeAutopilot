@@ -33,5 +33,14 @@
     "1YJ-Lvy5WasqpjjEqiMxcy7kdFKNOZoNb": "stories/032-latter-brygga",
     "1vSS0tUyk0S3V5gUhrFpJSWTvCg7Rd2JH": "stories/033-ser-utover",
     "1Cdu4EuhDJ57_VcM4Lw19XHdDocqvb9p4": "stories/033-ser-utover",
-    "_pending_large_files_2026-09-06": "download_file_content failed repeatedly (session expired) for 3 large (8-9MB) new Drive photos from 2026-09-06 burst: 1_3me-7tFLoovlnQsKezp7bANlKCtY44t (20260906_123008.jpg), 17Vyl5Byn0D4cwOwEhqyzFP3jo_uy4HqG (20260906_123013.jpg), 1Tb5X5rac3UlXCS6PZGZf9LED3jAnFFVg (20260906_123015.jpg). NOT used this run, NOT marked used -- retry next run, these are still candidates."
+    "_pending_large_files_2026-09-06": "download_file_content failed AGAIN (session expired) for the same 3 large (8-9MB) files on 2026-09-13 retry. Giving up on these permanently -- likely a size/timeout limit of the connector, not transient. Do not keep retrying: 1_3me-7tFLoovlnQsKezp7bANlKCtY44t, 17Vyl5Byn0D4cwOwEhqyzFP3jo_uy4HqG, 1Tb5X5rac3UlXCS6PZGZf9LED3jAnFFVg (20260906_123008/13/15.jpg). If Geir wants these specific photos posted, they need a smaller/compressed copy uploaded to Drive.",
+    "1FJAuYEvWndH2KPBkkR2_PpafFPkbS1mr": "queue/035-kaldt-bad",
+    "1t72e0v4_hwcSyCIUCPOzky5sxcef_h4t": "queue/036-benk-havneby",
+    "1dW3l6jb2gpdrqNbwYDMDKNDUnOlcetwX": "queue/037-hjemmekontor-morgen",
+    "1CUWZgjRht-vsHCq8IoW_S6WSWFRtaN4j": "stories/038-glimt-i-oyet",
+    "1RnP8jzDrT5ORz7feLDMKO--YoYlvoKt3": "stories/039-god-morgen-hagen",
+    "1nP34nls5LoFA9L0vm_aR4qDY8HlyaZKP": "stories/040-seier-neve",
+    "1teB1bxvSjQ1nkHbdbQ-Ab4063LKVw0Oi": "seen, not used (same desk already used in 031-skrivepult-loft)",
+    "1SjmOvtV0m_HTvFQ4tRV6qNibVd_Btw9f": "seen, not used (identifiable third person present, likely partner but unconfirmed - skipped per privacy policy)",
+    "1F6pUNKvW-F-uGnwxi4XpTHvqn9x4p1Ml": "seen, not used (seasonal mismatch - snow photo, would post in autumn)"
 }
